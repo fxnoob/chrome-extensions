@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Ebooks Download",
+  "version": "2.1",
+  "minimum_chrome_version": "23",
+  "icons": {
+    "16": "icon.png",
+    "128": "icon.png"
+  },
+  "app": {
+    "background": {
+      "scripts": ["main.js"]
+    }
+  }
+}
