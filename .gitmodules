@@ -1,0 +1,6 @@
+[submodule "fast-input"]
+	path = fast-input
+	url = https://github.com/fxnoob/fast-input
+[submodule "delete-sensitive-history"]
+	path = delete-sensitive-history
+	url = https://github.com/fxnoob/delete-sensitive-history.git
