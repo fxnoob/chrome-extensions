@@ -7,3 +7,15 @@
 [submodule "save-to-google-contacts"]
 	path = save-to-google-contacts
 	url = https://github.com/fxnoob/save-to-google-contacts
+[submodule "paytm-history-extension"]
+	path = paytm-history-extension
+	url = https://github.com/fxnoob/paytm-history-extension
+[submodule "jiofi-stats-chrome-extension"]
+	path = jiofi-stats-chrome-extension
+	url = https://github.com/fxnoob/jiofi-stats-chrome-extension
+[submodule "link-preview"]
+	path = link-preview
+	url = https://github.com/fxnoob/link-preview
+[submodule "olastats-chrome-extension"]
+	path = olastats-chrome-extension
+	url = https://github.com/fxnoob/olastats-chrome-extension
