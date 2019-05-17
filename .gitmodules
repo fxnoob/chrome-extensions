@@ -4,3 +4,6 @@
 [submodule "delete-sensitive-history"]
 	path = delete-sensitive-history
 	url = https://github.com/fxnoob/delete-sensitive-history.git
+[submodule "save-to-google-contacts"]
+	path = save-to-google-contacts
+	url = https://github.com/fxnoob/save-to-google-contacts
