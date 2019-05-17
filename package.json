@@ -1,6 +1,6 @@
 {
   "name": "chromex",
-  "homepage": "http://fxnoob.github.io/react-gh-pages",
+  "homepage": "http://fxnoob.github.io/chrome-extensions",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
