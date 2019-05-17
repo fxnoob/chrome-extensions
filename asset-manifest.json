@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.795991f2.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.2389ad20.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.2389ad20.chunk.js.map",
-    "runtime~main.js": "/react-gh-pages/static/js/runtime~main.ac2d5040.js",
-    "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.ac2d5040.js.map",
-    "static/js/2.7cddf10a.chunk.js": "/react-gh-pages/static/js/2.7cddf10a.chunk.js",
-    "static/js/2.7cddf10a.chunk.js.map": "/react-gh-pages/static/js/2.7cddf10a.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.1a8b85d8f109183cab6ea9a0d3d33d83.js": "/react-gh-pages/precache-manifest.1a8b85d8f109183cab6ea9a0d3d33d83.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.795991f2.chunk.css.map": "/react-gh-pages/static/css/main.795991f2.chunk.css.map"
+    "main.css": "/chrome-extensions/static/css/main.795991f2.chunk.css",
+    "main.js": "/chrome-extensions/static/js/main.26740502.chunk.js",
+    "main.js.map": "/chrome-extensions/static/js/main.26740502.chunk.js.map",
+    "runtime~main.js": "/chrome-extensions/static/js/runtime~main.77948cf9.js",
+    "runtime~main.js.map": "/chrome-extensions/static/js/runtime~main.77948cf9.js.map",
+    "static/js/2.7cddf10a.chunk.js": "/chrome-extensions/static/js/2.7cddf10a.chunk.js",
+    "static/js/2.7cddf10a.chunk.js.map": "/chrome-extensions/static/js/2.7cddf10a.chunk.js.map",
+    "index.html": "/chrome-extensions/index.html",
+    "precache-manifest.9a1aa5a64b0787ecf24d7384e4bab515.js": "/chrome-extensions/precache-manifest.9a1aa5a64b0787ecf24d7384e4bab515.js",
+    "service-worker.js": "/chrome-extensions/service-worker.js",
+    "static/css/main.795991f2.chunk.css.map": "/chrome-extensions/static/css/main.795991f2.chunk.css.map"
   }
 }
