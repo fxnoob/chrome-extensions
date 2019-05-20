@@ -72,15 +72,13 @@ class IconLabelTabs extends React.Component {
                 />
                 <ProductCard
                     photos={[
-                        'https://i.imgur.com/jRVDeI8.jpg',
-                        'https://i.imgur.com/raPe27t.jpg',
-                        'https://i.imgur.com/IpEsYSH.jpg'
+                        'https://raw.githubusercontent.com/fxnoob/chrome-extensions/master/src/phe.png'
                     ]}
-                    price='$99'
-                    productName='Headphones'
-                    description='Donec lectus nulla, molestie aliquam nisl vitae, tempor placerat magna. Morbi dignissim in felis vel aliquet.'
+                    price='$0'
+                    productName='PHE'
+                    description='PHE ( Paytm History Extension ) - A chrome extension to show stats based on paytm purchase history.'
                     rating={3}
-                    url='https://github.com/nukeop'
+                    url='https://github.com/fxnoob/paytm-history-extension'
                 />
 
             </div>
