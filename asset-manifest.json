@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/chrome-extensions/static/js/main.b37ea721.chunk.js",
-    "main.js.map": "/chrome-extensions/static/js/main.b37ea721.chunk.js.map",
+    "main.js": "/chrome-extensions/static/js/main.fd318c2a.chunk.js",
+    "main.js.map": "/chrome-extensions/static/js/main.fd318c2a.chunk.js.map",
     "runtime~main.js": "/chrome-extensions/static/js/runtime~main.77948cf9.js",
     "runtime~main.js.map": "/chrome-extensions/static/js/runtime~main.77948cf9.js.map",
-    "static/js/2.2dc6ac12.chunk.js": "/chrome-extensions/static/js/2.2dc6ac12.chunk.js",
-    "static/js/2.2dc6ac12.chunk.js.map": "/chrome-extensions/static/js/2.2dc6ac12.chunk.js.map",
+    "static/js/2.fbf96821.chunk.js": "/chrome-extensions/static/js/2.fbf96821.chunk.js",
+    "static/js/2.fbf96821.chunk.js.map": "/chrome-extensions/static/js/2.fbf96821.chunk.js.map",
     "index.html": "/chrome-extensions/index.html",
-    "precache-manifest.00d2465406ee264050de97adeed4b827.js": "/chrome-extensions/precache-manifest.00d2465406ee264050de97adeed4b827.js",
+    "precache-manifest.7a74ccc6becb4e71ee546880a5e20a93.js": "/chrome-extensions/precache-manifest.7a74ccc6becb4e71ee546880a5e20a93.js",
     "service-worker.js": "/chrome-extensions/service-worker.js"
   }
 }
