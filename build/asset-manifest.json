@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/chrome-extensions/static/js/main.99e1f8ca.chunk.js",
+    "main.js.map": "/chrome-extensions/static/js/main.99e1f8ca.chunk.js.map",
+    "runtime~main.js": "/chrome-extensions/static/js/runtime~main.77948cf9.js",
+    "runtime~main.js.map": "/chrome-extensions/static/js/runtime~main.77948cf9.js.map",
+    "static/js/2.244ddb17.chunk.js": "/chrome-extensions/static/js/2.244ddb17.chunk.js",
+    "static/js/2.244ddb17.chunk.js.map": "/chrome-extensions/static/js/2.244ddb17.chunk.js.map",
+    "index.html": "/chrome-extensions/index.html",
+    "precache-manifest.5447b7dcac556561b8680c8cb7b1833c.js": "/chrome-extensions/precache-manifest.5447b7dcac556561b8680c8cb7b1833c.js",
+    "service-worker.js": "/chrome-extensions/service-worker.js"
+  }
+}
