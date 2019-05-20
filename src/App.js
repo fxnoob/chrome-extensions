@@ -6,17 +6,8 @@ import Tab from '@material-ui/core/Tab';
 import HomeIcon from '@material-ui/icons/Home';
 import FavoriteIcon from '@material-ui/icons/Favorite';
 import PersonPinIcon from '@material-ui/icons/PersonPin';
-import Typography from '@material-ui/core/Typography';
 import HomeComponent from './home'
 import AboutComponent from './about'
-
-function TabContainer(props) {
-    return (
-        <Typography component="div" style={{ padding: 8 * 3 }}>
-            {props.children}
-        </Typography>
-    );
-}
 
 const styles = {
     main: {
@@ -65,14 +56,10 @@ class IconLabelTabs extends React.Component {
                 </Tabs>
             </Paper>
             </div>
-                <Typography component="p">
-                    {value === 0 && <TabContainer>
-                        <HomeComponent/>
-                    </TabContainer>}
-                    {value === 1 && <TabContainer>
-                        <AboutComponent/>
-                    </TabContainer>}
-                </Typography>
+                <p>
+                    {value === 0 && <HomeComponent/>}
+                    {value === 1 && <AboutComponent/>}
+                </p>
             </div>
         );
     }

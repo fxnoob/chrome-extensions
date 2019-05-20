@@ -4,6 +4,7 @@ import { withStyles } from '@material-ui/core/styles';
 
 const styles = {
     home: {
+        overflowX: 'scroll',
         display: 'flex',
         justifyContent: 'center',
         textAlign: 'center',
@@ -12,7 +13,6 @@ const styles = {
     root: {
         textAlign: 'center',
         flexGrow: 1,
-        maxWidth: 500,
     },
 };
 
@@ -36,11 +36,11 @@ class IconLabelTabs extends React.Component {
                         'https://i.imgur.com/raPe27t.jpg',
                         'https://i.imgur.com/IpEsYSH.jpg'
                     ]}
-                    price='$99'
-                    productName='Headphones'
-                    description='Donec lectus nulla, molestie aliquam nisl vitae, tempor placerat magna. Morbi dignissim in felis vel aliquet.'
+                    price='$0'
+                    productName='STGC'
+                    description='STGC(Save to google contacts)  chrome extension that lets you directly save contacts in phone from web pages'
                     rating={3}
-                    url='https://github.com/nukeop'
+                    url='https://chrome.google.com/webstore/detail/save-to-google-contacts/ofifhemkgcbeneclidajibkcjllgmjfp'
                 />
                 <ProductCard
                     photos={[
