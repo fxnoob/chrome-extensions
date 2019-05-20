@@ -32,9 +32,7 @@ class IconLabelTabs extends React.Component {
             <div className={classes.home}>
                 <ProductCard
                     photos={[
-                        'https://i.imgur.com/jRVDeI8.jpg',
-                        'https://i.imgur.com/raPe27t.jpg',
-                        'https://i.imgur.com/IpEsYSH.jpg'
+                        'https://raw.githubusercontent.com/fxnoob/chrome-extensions/master/src/stgc.png'
                     ]}
                     price='$0'
                     productName='STGC'
@@ -44,13 +42,11 @@ class IconLabelTabs extends React.Component {
                 />
                 <ProductCard
                     photos={[
-                        'https://i.imgur.com/jRVDeI8.jpg',
-                        'https://i.imgur.com/raPe27t.jpg',
-                        'https://i.imgur.com/IpEsYSH.jpg'
+                        'https://raw.githubusercontent.com/fxnoob/chrome-extensions/master/src/jiofi.jpeg',
                     ]}
-                    price='$99'
-                    productName='Headphones'
-                    description='Donec lectus nulla, molestie aliquam nisl vitae, tempor placerat magna. Morbi dignissim in felis vel aliquet.'
+                    price='$0'
+                    productName='JSCE'
+                    description='JSCE(JioFi Stats chrome extension ) - A chrome extension to get stats about Jiofi device which a PC is connected to.'
                     rating={3}
                     url='https://github.com/nukeop'
                 />
