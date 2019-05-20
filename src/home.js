@@ -48,31 +48,27 @@ class IconLabelTabs extends React.Component {
                     productName='JSCE'
                     description='JSCE(JioFi Stats chrome extension ) - A chrome extension to get stats about Jiofi device which a PC is connected to.'
                     rating={3}
-                    url='https://github.com/nukeop'
+                    url='https://chrome.google.com/webstore/detail/jiofi-extension/ngpdiefgknbemaecamolneblgoiaiokj'
                 />
                 <ProductCard
                     photos={[
-                        'https://i.imgur.com/jRVDeI8.jpg',
-                        'https://i.imgur.com/raPe27t.jpg',
-                        'https://i.imgur.com/IpEsYSH.jpg'
+                        'https://raw.githubusercontent.com/fxnoob/chrome-extensions/master/src/history.jpg'
                     ]}
-                    price='$99'
-                    productName='Headphones'
-                    description='Donec lectus nulla, molestie aliquam nisl vitae, tempor placerat magna. Morbi dignissim in felis vel aliquet.'
+                    price='$0'
+                    productName='IM'
+                    description='IM (Incognito Mode) - A chrome extension to delete sensitive websites history without opening page in  incognito mode.'
                     rating={3}
-                    url='https://github.com/nukeop'
+                    url='https://chrome.google.com/webstore/detail/incognito-mode/mohhhmnkpenbolekdahofkkbdeaakdei'
                 />
                 <ProductCard
                     photos={[
-                        'https://i.imgur.com/jRVDeI8.jpg',
-                        'https://i.imgur.com/raPe27t.jpg',
-                        'https://i.imgur.com/IpEsYSH.jpg'
+                        'https://raw.githubusercontent.com/fxnoob/chrome-extensions/master/src/fs.png'
                     ]}
-                    price='$99'
-                    productName='Headphones'
-                    description='Donec lectus nulla, molestie aliquam nisl vitae, tempor placerat magna. Morbi dignissim in felis vel aliquet.'
+                    price='$0'
+                    productName='FS'
+                    description='FS ( Fast Input ) - Fastest way to interact with web pages on chrome browser including speech, gesture recognition'
                     rating={3}
-                    url='https://github.com/nukeop'
+                    url='https://github.com/fxnoob/fast-input'
                 />
                 <ProductCard
                     photos={[
