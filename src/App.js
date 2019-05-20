@@ -32,10 +32,15 @@ class IconLabelTabs extends React.Component {
         this.handleChange = this.handleChange.bind(this)
     }
     handleChange = (event, value) => {
+        if ( value === 2)
+            return ;
         console.log(value)
         this.setState({ value: value });
     };
-
+    gotoGithub() {
+        window.location.href = "https://github.com/fxnoob"
+        return false;
+    }
     render() {
         const { classes } = this.props;
         const { value } = this.state;
@@ -52,7 +57,7 @@ class IconLabelTabs extends React.Component {
                 >
                     <Tab icon={<HomeIcon />} label="Home" />
                     <Tab icon={<FavoriteIcon />} label="About" />
-                    <Tab icon={<PersonPinIcon />} label="Github" />
+                    <Tab icon={<PersonPinIcon />} label="Github" onClick={this.gotoGithub} />
                 </Tabs>
             </Paper>
             </div>
